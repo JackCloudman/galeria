@@ -121,7 +121,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = '/home/jack/galeria/static/'
-
+FILE_UPLOAD_PERMISSIONS = 0o644
 
 
 
