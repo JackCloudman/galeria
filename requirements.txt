@@ -1,4 +1,4 @@
-django
-pillow
-gunicorn
-django-tagging
+Django==2.0.8  
+django-tagging==0.4.6  
+gunicorn==19.9.0 
+Pillow==5.2.0 
