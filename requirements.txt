@@ -1,4 +1,4 @@
 django>=2.0.10 
 django-tagging==0.4.6  
 gunicorn==19.9.0 
-Pillow==6.2.0 
+Pillow>=6.2.2
